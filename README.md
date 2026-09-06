@@ -25,7 +25,7 @@ threew-social/
 │   ├── routes/posts.js
 │   ├── uploads/            (uploaded post images live here)
 │   ├── server.js
-│   └── .env.example
+│   └── .env
 └── frontend/
     ├── src/
     │   ├── components/     (CreatePost, PostCard, ProtectedRoute)
@@ -35,7 +35,7 @@ threew-social/
     │   ├── theme.js
     │   ├── App.jsx
     │   └── main.jsx
-    └── .env.example
+    └── .env
 ```
 
 ## Running locally
