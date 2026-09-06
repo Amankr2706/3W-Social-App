@@ -5,14 +5,14 @@ built for the 3W Full Stack Internship assignment. UI is styled in MUI,
 loosely inspired by the TaskPlanet Social page (dark theme, pill buttons,
 rounded cards).
 
-## Stack
+## 🚀 Tech Stack
 
 - **Frontend:** React (Vite) + Material UI (MUI) + React Router + Axios
 - **Backend:** Node.js + Express + JWT auth + Multer (image upload)
 - **Database:** MongoDB (Mongoose) — exactly 2 collections: `users`, `posts`
   (likes and comments are embedded inside each post document)
 
-## Project structure
+## 📂 Project structure
 
 ```
 threew-social/
